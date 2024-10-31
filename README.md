@@ -1,4 +1,4 @@
-## RESEARCH OUTPUT DATA CLEANING SCRIPT
+## Research Output Data Cleaning Script
 
 This Python script is designed to help clean up research output data by removing duplicate file information in the `electronicVersions` section for each research output in the Pure system.
 
